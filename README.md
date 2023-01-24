@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Mason Logger Failure
+
+Progress logging with long string leads to weird behaviour

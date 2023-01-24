@@ -1,0 +1,9 @@
+name: mason_logger_failure
+description: Mason Logger Failure
+version: 1.0.0
+
+environment:
+  sdk: ">=2.18.6 <3.0.0"
+
+dependencies:
+  mason_logger: ^0.2.3
